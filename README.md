@@ -20,9 +20,9 @@ To utilize the script:
 
 # Notes
 
-- Make sure to install the required libraries using pip install pandas sqlalchemy if you haven't already.
-- Modify the database connection details in the script to match your PostgreSQL setup.
-- The script assumes that the CSV files are in the same directory as the script.
-- Check the PostgreSQL database for successfully uploaded tables.
+* Make sure to install the required libraries using pip install pandas sqlalchemy if you haven't already.
+* Modify the database connection details in the script to match your PostgreSQL setup.
+* The script assumes that the CSV files are in the same directory as the script.
+* Check the PostgreSQL database for successfully uploaded tables.
 
 Feel free to adapt the script according to your specific requirements and data sources.
