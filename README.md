@@ -16,7 +16,7 @@ PostgreSQL database
 To utilize the script: 
 * Scan and compile CSV files from the current directory. 
 * Create a 'datasets' directory and copy CSV files. 
-* Read files into Pandas DataFrames, clean column names, and upload to a PostgreSQL database. Ensure backups for table replacement.
+* Read files into Pandas DataFrames, clean table and column names, and upload to a PostgreSQL database. Ensure backups for table replacement.
 
 # Notes
 
