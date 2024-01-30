@@ -3,3 +3,4 @@ datasets/.DS_Store
 .ipynb_checkpoints/
 countries_database.sql
 
+countries_database copy.sql
