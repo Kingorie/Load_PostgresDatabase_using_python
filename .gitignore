@@ -1,4 +1,5 @@
 .DS_Store
 datasets/.DS_Store
 .ipynb_checkpoints/
+countries_database.sql
 
